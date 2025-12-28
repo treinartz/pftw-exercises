@@ -12,7 +12,7 @@ function App() {
   return (
     <div>
       <h1>Hello World</h1>
-      <SimpleCard title="Hello Card!" content="You are my first card!" />
+      <SimpleCard title="Hello Card!" content="This is my first card!" />
     </div>
   );
 }
